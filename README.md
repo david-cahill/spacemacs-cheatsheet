@@ -21,6 +21,8 @@ This repo shows some of the most useful commands I've found while developing wit
 * Jump forward on line: <b>e</b>
 * Jump back on line: <b>b</b>
 * Jump to line number: <b> 'line number' G</b> e.g. 20 G
+* Jump to end of line: SHIFT $
+* Jump to beginning of line: g 0
 
 
 
